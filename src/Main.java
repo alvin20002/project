@@ -5,6 +5,7 @@ public class Main {
         System.out.print("Hello vistula this my first project");
         System.out.print("hello my students");
         System.out.print("hello my project");
+        System.out.print("bye Vistula");
 
     }
 }
